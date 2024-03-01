@@ -1,0 +1,44 @@
+.qrcode-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  #head{
+    color: red;
+  }
+  .qrcode-container h2 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .qrcode-output {
+    margin-top: 20px;
+  }
+  
+  .qrcode-output p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  /* Style the QR Code */
+  .qrcode-container svg {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  

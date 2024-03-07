@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+  }
+  
+  .input-field {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .qr-code-container {
+    margin-top: 20px;
+  }
+  

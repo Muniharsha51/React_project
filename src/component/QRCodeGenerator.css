@@ -6,6 +6,7 @@
     max-width: 400px;
     margin: 0 auto;
     text-align: center;
+    
   }
   #head{
     color: red;
@@ -41,4 +42,34 @@
     border: 2px solid #ccc;
     border-radius: 5px;
   }
+
+
+
+
+
+
+  .container {
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(172, 180, 254) , yellow);
+    width: 100%;
+    height: 100vh;
+  }
+  
+  .input-field {
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(158, 231, 145);
+  }
+  
+  .qr-code-container {
+    margin-top: 20px;
+  }
+  
   
